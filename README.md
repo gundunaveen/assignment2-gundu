@@ -40,4 +40,25 @@ The below table shows the recommended sports, location and the amount of persona
 ### Favourite Quotes
 
 > Man is made by his belief. As he believes, so he is. - *Lord Shri Krish*
-> There is no other spiritual teacher than your own soul. - *Swamy Vivekananda* 
+> There is no other spiritual teacher than your own soul. - *Swamy Vivekananda*
+
+-------------------------------------------------------------------------------
+
+### Code Fencing
+
+> If the polygon can be drawn on an equally spaced grid such that all its vertices are grid points, Pick's theorem gives a simple formula for the polygon's area based on the numbers of interior and boundary grid points: the former number plus one-half the latter number, minus 1.
+
+```
+double area(const vector<point>& fig) {
+    double res = 0;
+    for (unsigned i = 0; i < fig.size(); i++) {
+        point p = i ? fig[i - 1] : fig.back();
+        point q = fig[i];
+        res += (p.x - q.x) * (p.y + q.y);
+    }
+    return fabs(res) / 2;
+}
+
+```
+[Source Code](https://en.wikipedia.org/wiki/Polygon#:~:text=If%20the%20polygon%20can%20be,the%20latter%20number%2C%20minus%201.)
+
