@@ -16,4 +16,6 @@ Hyderabad is the capital and **largest city** of the Indian state of Telangana.I
     1. Take a ticket to Secundrabad.
     2. Catch a bus from Secundrabad to Paradise.
     3. From Paradise walk for 100 meters to reach Paradise Restaurant.
-
+* Chicken Dum Biryani(Double Masala)
+* Shawarma with extra cheese
+* Spicy Pepper Chicken
