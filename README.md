@@ -47,6 +47,7 @@ The below table shows the recommended sports, location and the amount of persona
 ### Code Fencing
 
 > If the polygon can be drawn on an equally spaced grid such that all its vertices are grid points, Pick's theorem gives a simple formula for the polygon's area based on the numbers of interior and boundary grid points: the former number plus one-half the latter number, minus 1.
+[Source](https://en.wikipedia.org/wiki/Polygon#:~:text=If%20the%20polygon%20can%20be,the%20latter%20number%2C%20minus%201.)
 
 ```
 double area(const vector<point>& fig) {
@@ -58,7 +59,5 @@ double area(const vector<point>& fig) {
     }
     return fabs(res) / 2;
 }
-
 ```
-[Source Code](https://en.wikipedia.org/wiki/Polygon#:~:text=If%20the%20polygon%20can%20be,the%20latter%20number%2C%20minus%201.)
-
+[Source Code](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
