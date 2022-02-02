@@ -21,3 +21,16 @@ Hyderabad is the capital and **largest city** of the Indian state of Telangana.I
 * Spicy Pepper Chicken
 
 [About Me](AboutMe.md)
+
+-----------------------------------------------------------------------------
+
+### Recommended Sports
+
+The below table shows the recommended sports, location and the amount of personal equipment.
+
+|     Sport     |     Location     |     Amount(INR)     |
+|---------------|------------------|---------------------|
+|    Cricket    |  Cricket Ground  |         1000        |
+|   Badminton   |  Badminton Court |         1500        |
+|  Volley Ball  | Volley Ball Court|         1000        |
+|   Foot Ball   | Foot Ball Court  |         5000        |
