@@ -34,3 +34,10 @@ The below table shows the recommended sports, location and the amount of persona
 |   Badminton   |  Badminton Court |         1500        |
 |  Volley Ball  | Volley Ball Court|         1000        |
 |   Foot Ball   | Foot Ball Court  |         5000        |
+
+----------------------------------------------------------------------------
+
+### Favourite Quotes
+
+> Man is made by his belief. As he believes, so he is. - *Lord Shri Krish*
+> There is no other spiritual teacher than your own soul. - *Swamy Vivekananda* 
